@@ -1,0 +1,8 @@
+ENDORSED_DIRS="E\:\\lzdck\\ck01\\tomcat7042/common/endorsed"
+JDK_HOME=E\:\\NW0030-\u7528\u6237\u7BA1\u7406\u5B9E\u6218\u9879\u76EE\u6E90\u7801\\shopping_workspace\\jdk1.7.0_80
+LIBRARY_PATH="E\:\\NW0030-\u7528\u6237\u7BA1\u7406\u5B9E\u6218\u9879\u76EE\u6E90\u7801\\shopping_workspace\\jdk1.7.0_80\\bin;E\:\\lzdck\\ck01\\tomcat7042\\bin"
+SERVER_ENABLEMENT=true
+TOMCAT_BASE=E\:\\lzdck\\ck01\\tomcat7042
+TOMCAT_HOME=E\:\\lzdck\\ck01\\tomcat7042
+TOMCAT_TEMP=E\:\\lzdck\\ck01\\tomcat7042\\temp
+eclipse.preferences.version=1
